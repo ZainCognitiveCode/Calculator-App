@@ -1,0 +1,35 @@
+.text-center {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2e9aa4;
+    width: 350px;
+    border-radius: 25px;
+    padding: 13px;
+
+
+}
+
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 20px;
+    width: 296px;
+}
+
+.exclusive {
+    background-color: #f65505;
+}

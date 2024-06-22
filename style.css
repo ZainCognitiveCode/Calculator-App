@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 66px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+
+}
+
+.button:hover {
+    background-color: rgb(255, 191, 64);
+}
+
+.button:active {
+    background-color: #e75a5a;
+}
